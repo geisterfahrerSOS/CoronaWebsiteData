@@ -1,0 +1,1 @@
+// document.getElementById("searchIcon").style.filter = "invert(100%)";
